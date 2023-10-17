@@ -22,7 +22,7 @@ Feel free to explore the QuraEnlight repository, provide feedback, or contribute
 
 📧 **Contact**
 
-If you have any questions, suggestions, or just want to connect, please don't hesitate to reach out. You can contact me through GitHub or via email at [your.email@example.com].
+If you have any questions, suggestions, or just want to connect, please don't hesitate to reach out. You can contact me through GitHub or via email at [abdisidnoor@gmail.com].
 
 Thank you for joining me on this journey of spiritual growth and enlightenment through technology.
 
